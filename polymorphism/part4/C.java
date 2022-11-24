@@ -6,5 +6,8 @@ public class C extends B{
     public void method(){
         System.out.println(super.name);
     }
+    public void methodc(){
+        System.out.println(super.name);
+    }
 
 }

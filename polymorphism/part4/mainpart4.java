@@ -14,9 +14,9 @@ public class mainpart4 {
         System.out.println(b.name);
         System.out.println(c.name);
         System.out.println("==================================");
-        A aa=new A();   // parent class on parrent class .
-        A bb=new B();   // child class on parrent class.
-        B cc=new C();   // child class on parrent class.
+        A aa=new A();   //  class on class  .
+        A bb=new B();   // child class on parrent class var.
+        B cc=new C();   // child class on parrent class var .
         System.out.println(aa);
         System.out.println(bb);
         System.out.println(cc);
@@ -36,8 +36,8 @@ public class mainpart4 {
         System.out.println("==================================");
         aa.method();
         bb.method();
-//        cc.methodc(); //error compile time
-//        System.out.println(cc.namec);  //error compile time
+        cc.methodc(); //error compile time
+        System.out.println(cc.namec);  //error compile time
         /*
          * if we construct a class in its parent class variable type and print same methods
          * it will print the value store in its same class
