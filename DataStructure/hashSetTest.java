@@ -14,7 +14,7 @@ public class hashSetTest {
 
         System.out.println(h);
         hashSetTest t;
-        t.lala();
+        ///t.lala();
     }
 
     public static void lala() {
