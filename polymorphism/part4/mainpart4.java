@@ -14,9 +14,9 @@ public class mainpart4 {
         System.out.println(b.name);
         System.out.println(c.name);
         System.out.println("==================================");
-        A aa=new A();   // parent class on parrent class
-        A bb=new B();   // child class on parrent class
-        B cc=new C();   // child class on parrent class
+        A aa=new A();   // parent class on parrent class .
+        A bb=new B();   // child class on parrent class.
+        B cc=new C();   // child class on parrent class.
         System.out.println(aa);
         System.out.println(bb);
         System.out.println(cc);
