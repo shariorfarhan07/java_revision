@@ -17,6 +17,8 @@ public class linkListTest {
         lp.add(4);
         lp.add(5);
 
+
+
         System.out.println(lp);
     }
 }

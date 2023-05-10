@@ -11,10 +11,11 @@ public class hashSetTest {
         h.add(1);
         h.add(2);
         h.add(3);
+        h.add(33);
 
         System.out.println(h);
-        hashSetTest t;
-        ///t.lala();
+//        hashSetTest t;
+//        ///t.lala();
     }
 
     public static void lala() {

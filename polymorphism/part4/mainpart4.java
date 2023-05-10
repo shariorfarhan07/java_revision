@@ -36,8 +36,8 @@ public class mainpart4 {
         System.out.println("==================================");
         aa.method();
         bb.method();
-        cc.methodc(); //error compile time
-        System.out.println(cc.namec);  //error compile time
+//        cc.methodc(); //error compile time
+//        System.out.println(cc.namec);  //error compile time
         /*
          * if we construct a class in its parent class variable type and print same methods
          * it will print the value store in its same class
