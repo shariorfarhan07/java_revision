@@ -17,8 +17,8 @@ public class Hashmap {
         Set b=a.keySet();
         Iterator i = b.iterator();
         while (i.hasNext()){
-            System.out.println(i);
-            i.next();
+            System.out.println(i.next());
+
         }
 
     }
