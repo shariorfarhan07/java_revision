@@ -21,6 +21,7 @@ public class stacktest {
 //        System.out.println( sp.pop());
         System.out.println( sp.firstElement());
         System.out.println( sp);
+        System.out.println( sp.peek());
 
     }
 }
